@@ -25,5 +25,8 @@
     "start": "webpack --config webpack.config.js",
     "build": "webpack --config webpack.config.js",
     "watch": "webpack --watch"
+  },
+  "engines": {
+    "node": "<=16.20.2"
   }
 }
